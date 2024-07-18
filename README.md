@@ -35,7 +35,7 @@ Color Mania is a Chrome Extension that allows users to pick colors from web page
 
 ### Demo 2: Saving Colors
 
-![Demo 2](Demo2,png)
+![Demo 2](Demo2.png)
 ### Demo 3: Exporting Palettes
 
 ![Demo 3](Demo3.png)
