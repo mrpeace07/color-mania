@@ -1,14 +1,13 @@
 {
     "manifest_version": 3,
-    "name":"Color-mania",
-    "description":"pick your colour and get ready to design",
-    "version": "2",
-    "action":{
-        "default_popup":"index.html"
+    "name": "Color-mania",
+    "description": "Pick your colour and get ready to design",
+    "version": "2.5",
+    "action": {
+        "default_popup": "index.html"
     },
-    "icons":{
-        "512":"icon.png"
+    "icons": {    
+        "128": "icons/icon.png"   
     },
     "options_page": "options/options.html"
-
 }
